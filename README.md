@@ -23,7 +23,7 @@
 
 ## What I'm building
 
-<h3>物影集</h3>
+<h3><img src="./assets/yuwen/icon.png" width="42" alt="物影集图标" valign="middle" />&nbsp;物影集</h3>
 
 <p><strong>Turn everyday objects into a collection of memories that keeps growing.</strong></p>
 <p>An iOS memory-collection app that turns a captured object into a “physical shadow”, then lets it live on as a card, a shelf, and a growing personal series.</p>

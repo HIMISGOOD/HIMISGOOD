@@ -5,14 +5,16 @@
 <h1 align="center">Hi, I'm Himi.</h1>
 
 <p align="center">
-  Indie maker building thoughtful tools for language immersion.<br />
-  Currently creating <strong>三分熟字幕 / Sublur</strong>.
+  Indie maker building thoughtful tools for language, health, and human agency.<br />
+  Currently creating <strong>三分熟字幕 / Sublur</strong> and <strong>Human OS</strong>.
 </p>
 
 <p align="center">
   <a href="https://sublur.top">Website</a>
   ·
   <a href="https://github.com/HIMISGOOD/sublur.github.io">Product</a>
+  ·
+  <a href="https://github.com/HIMISGOOD/human-os">Human OS</a>
   ·
   <a href="https://chromewebstore.google.com/detail/ialajinbcabkjompgcbedlbbaknbfjki">Chrome</a>
   ·
@@ -34,10 +36,26 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="92" align="center">
+      <img src="https://raw.githubusercontent.com/HIMISGOOD/human-os/main/assets/human-os-mark.svg" width="68" alt="Human OS icon" />
+    </td>
+    <td>
+      <h3>Human OS</h3>
+      <p><strong>Your body has data. Turn it into a daily decision.</strong></p>
+      <p>An iPhone-first personal health agent combining HealthKit, daily conversation, and layered memory into one actionable operating plan.</p>
+      <p><a href="https://github.com/HIMISGOOD/human-os">Explore the product and architecture →</a></p>
+    </td>
+  </tr>
+</table>
+
 ## A few principles I care about
 
 - Listen first; reveal when needed.
 - Add useful friction without breaking the experience.
+- Turn context into one useful next move.
+- Keep AI actions inspectable and permission-gated.
 - Build around real content people already love.
 - Ship small, observe honestly, and keep refining.
 
